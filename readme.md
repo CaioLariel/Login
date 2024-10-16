@@ -9,7 +9,7 @@
     <a href="https://www.youtube.com/watch?v=xN9yjF8w_xs" target="_blank">
         <img src="/assets/gif.gif" alt="video" width="460" height="300">
     </a>
-    <p>Click on the image above to watch a video about our inventory system.</p>
+    <p>Click on the image above to watch a video about our login (2FA).</p>
 </body>
 </html>
 
