@@ -18,15 +18,27 @@
 Login Screen
 This project implements a login screen with authentication and new user registration functionality. The login screen allows existing users to log in with their email and password, while the registration form allows new users to create an account by providing a username, email, and password.
 
-Features
+## Features
 Login: Users can log in by providing their email and password. The system verifies the credentials against the database and, if valid, authenticates the user.
-Registration: New users can register by providing a username, email, and password. After registration, a two-factor validation is required to confirm the user's identity.
-Error Handling: The system handles errors appropriately, displaying clear error messages and logging errors for debugging purposes.
-Logging: All relevant actions, such as login attempts, registrations, and errors, are logged for auditing and debugging purposes.
-Setup
-Fill in the .env file with the necessary information, such as database credentials and API keys.
-Install the project dependencies by running npm install.
-Start the server by running node server.js.
-Contributing
+
+## Registration: 
+
+New users can register by providing a username, email, and password. After registration, a two-factor validation is required to confirm the user's identity.
+
+## Error Handling: 
+The system handles errors appropriately, displaying clear error messages and logging errors for debugging purposes.
+
+## Logging: 
+All relevant actions, such as login attempts, registrations, and errors, are logged for auditing and debugging purposes.
+
+## Setup: 
+
+1- Fill in the .env file with the necessary information, such as database credentials and API keys.
+2- Install the project dependencies by running npm install.
+3- Start the server by running node server.js.
+
+
+## Contributing
+
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
